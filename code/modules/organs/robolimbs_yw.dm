@@ -10,10 +10,10 @@
 	parts = list(BP_HEAD)
 	monitor_styles = standard_monitor_styles
 
-/datum/robolimb/S.Ind
+/datum/robolimb/S_Ind
 	company = "S.Ind"
 	desc = "S.Ind brand prosthetic limbs."
-	icon = 'icons/mob/human_races/cyberlimbs/S.Ind/sind_main.dmi' //Sprited by: Generalpantsu
+	icon = 'icons/mob/human_races/cyberlimbs/S_Ind/sind_main.dmi' //Sprited by: Generalpantsu
 
 /datum/robolimb/Hperformance
 	company = "Hperformance."
