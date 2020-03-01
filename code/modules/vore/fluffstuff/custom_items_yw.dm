@@ -631,7 +631,6 @@
 	set name = "Resize (Implant)"
 	set desc = "Change your size between two different preset options."
 	set category = "IC"
-	set src = usr
 	
 	if(src.stat == DEAD)
 		return
