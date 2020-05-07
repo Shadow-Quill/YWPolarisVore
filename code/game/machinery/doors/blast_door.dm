@@ -18,10 +18,10 @@
 	min_force = 20 //minimum amount of force needed to damage the door with a melee weapon
 	var/material/implicit_material
 	// Icon states for different shutter types. Simply change this instead of rewriting the update_icon proc.
-	var/icon_state_open = null
+	var/icon_state_open =null
 	var/icon_state_opening = null
 	var/icon_state_closed = null
-	var/icon_state_closing = null
+	var/icon_state_closing =null
 
 	closed_layer = ON_WINDOW_LAYER // Above airlocks when closed
 	var/id = 1.0
