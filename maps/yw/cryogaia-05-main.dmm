@@ -24933,11 +24933,11 @@
 /obj/effect/floor_decal/corner/red/full{
 	dir = 8
 	},
-/obj/item/device/holowarrant,
-/obj/item/device/holowarrant,
-/obj/item/device/holowarrant,
-/obj/item/device/holowarrant,
-/obj/item/device/holowarrant,
+/obj/item/weapon/storage/box/holowarrants,
+/obj/item/weapon/storage/box/holowarrants{
+	pixel_x = 3;
+	pixel_y = 4
+	},
 /turf/simulated/floor/tiled/steel,
 /area/security/security_lockerroom)
 "jEM" = (
